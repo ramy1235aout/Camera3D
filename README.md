@@ -1,12 +1,12 @@
-# 🎥 Caméra 3D avec déplacement clavier
+# Caméra 3D avec déplacement clavier
 
 Un projet simple sous pyray permettant de **déplacer une caméra dans un espace 3D** en utilisant uniquement les **flèches directionnelles** du clavier.
 
-## 📌 Fonctionnalités
+## Fonctionnalités
 - Déplacement de la caméra dans 3D avec les touches fléchées ⬆️⬇️⬅️➡️
 - Contrôle simple et intuitif
 
-## ▶️ Usage
+## Usage
 Pour lancer le programme et déplacer la caméra dans l’espace 3D :  
 
 - Ouvrez `main.py` dans votre éditeur Python.
@@ -15,11 +15,11 @@ Pour lancer le programme et déplacer la caméra dans l’espace 3D :
 python main.py
 ```
 ![Exemple de déplacement caméra](camera.gif)
-## 🕹️ Contrôles clavier
+## Contrôles clavier
 ⬆️ : avancer
 ⬇️ : reculer
 ⬅️ : gauche
 ➡️ : droite
 ## 🔧 Technologies utilisées
-- Python 🐍
+- Python
 - Pyray pour le rendu et le contrôle clavier
