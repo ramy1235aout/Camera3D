@@ -20,3 +20,6 @@ python main.py
 ⬇️ : reculer
 ⬅️ : gauche
 ➡️ : droite
+## 🔧 Technologies utilisées
+- Python 🐍
+- Pyray pour le rendu et le contrôle clavier
