@@ -14,7 +14,7 @@ Pour lancer le programme et déplacer la caméra dans l’espace 3D :
 ```bash
 python main.py
 ```
-
+![Exemple de déplacement caméra]()
 ## 🕹️ Contrôles clavier
 ⬆️ : avancer
 ⬇️ : reculer
